@@ -18,3 +18,5 @@ Suggestion: Focus on Product related to Technology or management.
 Moreover, Technology sector partnerships could yield significant customer acquisition opportunities.
 
 <img width="1030" height="563" alt="image" src="https://github.com/user-attachments/assets/38354631-462b-480e-8d64-9a3a02c2e3e4" />
+<img width="791" height="292" alt="image" src="https://github.com/user-attachments/assets/ccc907de-a0ab-493d-8257-21eb695362ae" />
+
