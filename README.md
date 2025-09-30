@@ -1,4 +1,5 @@
 # analysis-by-excel-on-Market-s-Customer-dataset
+To get access on the analyzed file the pass: 12345
 The project focus on analyzing the dataset and keep save the privacy of data through masking data
 The Insights Discovered
 
