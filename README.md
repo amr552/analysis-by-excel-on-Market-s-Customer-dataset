@@ -16,3 +16,5 @@ Visa credit cards dominate customer payment preferences, representing the most u
 Technology and management sectors show the highest customer concentration, with males representing the majority in these high-income professional categories. 
 Suggestion: Focus on Product related to Technology or management.
 Moreover, Technology sector partnerships could yield significant customer acquisition opportunities.
+
+<img width="1030" height="563" alt="image" src="https://github.com/user-attachments/assets/38354631-462b-480e-8d64-9a3a02c2e3e4" />
